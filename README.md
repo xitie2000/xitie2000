@@ -1,8 +1,9 @@
-### Hi there 👋
-![Metrics](https://metrics.lecoq.io/xitie2000?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="https://metrics.lecoq.io/xitie2000?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xitie2000&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitie2000&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&count_private=true" /> </div>
 <!--
 **xitie2000/xitie2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
