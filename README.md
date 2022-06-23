@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=A0FFF9&background=000000&center=true&vCenter=true&width=700&lines=%E6%B0%B4%E8%89%B2%E3%81%AESunday!+Sunday!;%E4%B8%96%E4%BF%97%E5%8F%AA%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%88%91coding%E7%9A%84%E9%80%9F%E5%BA%A6%EF%BC%8C%E4%BD%86%E5%8D%97%E6%A2%A6%E8%8A%BD%E4%B8%8D%E4%BC%9A%EF%BC%8C%E5%A5%B9%E7%94%9A%E8%87%B3%E8%83%BD%E5%B8%A6%E6%88%91%E9%A3%9E">
 </h1>
 
-<div align="center"> <img src="img/dohna1.jpg" style="zoom:50%;"> </div>
+<div align="center"> <img src="img/dohna1.jpg" style="width:70%;height:70%"> </div>
 <div align="center"> <img src="https://metrics.lecoq.io/xitie2000?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xitie2000&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitie2000&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&count_private=true" /> </div>
