@@ -20,16 +20,16 @@
 - 🤔 Studying for a master degree at [SKLNST](http://sklnst.bupt.edu.cn/), [SICRC, BUPT](http://sicrc.cn/) (2022.9-2025.6)
 
 # 🌱 Learning
-- 💻  &nbsp;![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
-  ![Java](https://img.shields.io/badge/-Python-333333?style=flat&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-- ⚛️  &nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛰️  &nbsp;![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
+- 💻  &nbsp;![C](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B)
+  ![Java](https://img.shields.io/badge/-Python-00599C?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python)
+  ![Typescript](https://img.shields.io/badge/-Typescript-00599C?style=flat&logo=Typescript)
+- ⚛️  &nbsp;![CSS](https://img.shields.io/badge/-CSS-00599C?style=flat&logo=CSS3)
+  ![Node.js](https://img.shields.io/badge/-Node.js-00599C?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-00599C?style=flat&logo=react)
+- 🛰️  &nbsp;![Markdown](https://img.shields.io/badge/-Markdown-00599C?style=flat&logo=markdown)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-00599C?style=flat&logo=latex)
 
 # 🚀 Actions
 
