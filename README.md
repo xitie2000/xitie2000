@@ -15,13 +15,27 @@
 
 #  🙋 Hello
 
-<p>程序员，年二十有三，始从文，连考而不中，后习武，校场发矢，中鼓吏，逐之出。遂习IT，自撰一函数，运行之，堆栈溢出。</p>
+- 💬 程序员，年二十有三，始从文，连考而不中，后习武，校场发矢，中鼓吏，逐之出。遂习IT，自撰一函数，运行之，堆栈溢出。
+- 😄 北京邮电大学网络与交换技术国家重点实验室[交换与智能控制研究中心](http://sicrc.cn/)硕士在读
+- 🤔 Studying for a master degree at State Key Laboratory Of Networking And Switching Technology, [SICRC, BUPT](http://sicrc.cn/)
+
+# 🌱 Learning
+- 💻  &nbsp;![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![Java](https://img.shields.io/badge/-Python-333333?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
+- ⚛️  &nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛰️  &nbsp;![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
 
 # 🚀 Actions
 
 <div align="center"> <img src="https://metrics.lecoq.io/xitie2000?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xitie2000&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitie2000&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&count_private=true" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xitie2000&show_icons=true&include_all_commits=true&count_private=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitie2000&layout=compact&langs_count=8" /> </div>
 <!--
 **xitie2000/xitie2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
