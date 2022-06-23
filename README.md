@@ -17,7 +17,7 @@
 
 - 💬 程序员，年二十有三，始从文，连考而不中，后习武，校场发矢，中鼓吏，逐之出。遂习IT，自撰一函数，运行之，堆栈溢出。
 - 😄 北京邮电大学网络与交换技术国家重点实验室[交换与智能控制研究中心](http://sicrc.cn/)硕士在读（2022.9-2025.6）
-- 🤔 Studying for a master degree at [State Key Laboratory Of Networking And Switching Technology](http://sklnst.bupt.edu.cn/), [SICRC, BUPT](http://sicrc.cn/) (2022.9-2025.6)
+- 🤔 Studying for a master degree at [SKLNST](http://sklnst.bupt.edu.cn/), [SICRC, BUPT](http://sicrc.cn/) (2022.9-2025.6)
 
 # 🌱 Learning
 - 💻  &nbsp;![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
