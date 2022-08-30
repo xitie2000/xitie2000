@@ -20,7 +20,7 @@
 - 🤔 Studying for a master degree at <a href="http://sklnst.bupt.edu.cn/" target="_blank">SKLNST</a>, <a href="http://sicrc.cn/" target="_blank">SICRC, BUPT</a> (2022.9-2025.6)
 
 # 🌱 Learning
-- 💻  &nbsp;![C](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C)
+- 💻  &nbsp;![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B)
   ![Java](https://img.shields.io/badge/-Python-00599C?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=Python)
